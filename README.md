@@ -1,5 +1,6 @@
 # This project explores the affection Covid-19 had in USA
 ## Advanced programming for data analysis course - final project
+![covid19](https://user-images.githubusercontent.com/79993655/121152556-f9910580-c84d-11eb-91db-c6c8abf3abf8.jpg)
 
 ### Part 1 -
 * Data scraping from wikipedia
